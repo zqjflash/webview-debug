@@ -37,7 +37,7 @@ __我们的业务开发通常在QB、微信、手Q场景，以上几种调试都
 
 ### 接下来重点阐述第三阶段的调试方案
 
-* 下载tbs2.0调试包并解压得到apk（http://res.imtt.qq.com/tbs_inspect/tbs_2.0_inspector_beta.zip），放在手机sdcard/tbs/com.tencent.mm目录下，打开微信访问debugtbs.qq.com，先点击“清除TBS内核”，再点击“安装本地TBS内核”即可；（blink版本全量上线以后此步骤省略）
+* 下载tbs2.0调试包并解压得到apk（`http://res.imtt.qq.com/tbs_inspect/tbs_2.0_inspector_beta.zip`），放在手机sdcard/tbs/com.tencent.mm目录下，打开微信访问debugtbs.qq.com，先点击“清除TBS内核”，再点击“安装本地TBS内核”即可；（blink版本全量上线以后此步骤省略）
 
 * 微信访问一个页面，手机USB连接电脑，打开chrome浏览器，输入chrome://inspect即可
 
